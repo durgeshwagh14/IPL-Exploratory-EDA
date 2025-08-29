@@ -22,7 +22,16 @@ The project is based on **two official IPL datasets**, merged using the `id` col
 ## 🚀 Steps
 1. Data cleaning & preprocessing  
 2. Exploratory data analysis (EDA)  
-3. Visualizations for insights  
+3. Visualizations for insights
+
+## ▶️ How to Run This Project
+To explore this analysis on your local system or Google Colab:
+
+1. Clone or download the repository.  
+2. Ensure required libraries are installed:  
+   ```bash
+   pip install pandas matplotlib seaborn
+
 
 ## 📌 Outcome
 A data-driven understanding of IPL with **interactive charts & insights** that help analyze team strategies, player impact, and match trends.
