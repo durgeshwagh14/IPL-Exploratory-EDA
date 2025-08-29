@@ -11,7 +11,13 @@ This project explores the **Indian Premier League (IPL)** dataset to analyze tea
 ## 🛠️ Tech Stack
 - Python  
 - Pandas, NumPy  
-- Matplotlib, Seaborn, Plotly  
+- Matplotlib, Seaborn, Plotly
+
+## 📊 Data Sources
+The project is based on **two official IPL datasets**, merged using the `id` column to create a comprehensive DataFrame:
+
+1. **Matches Dataset (`matches_df.csv`)** – Match-level information  
+2. **Balls Dataset (`balls_df.csv`)** – Ball-by-ball details  
 
 ## 🚀 Steps
 1. Data cleaning & preprocessing  
